@@ -3,7 +3,7 @@ const ITEMS = [
   { id: 1,  name: "Hasło",              allowed: false, x: 66.83, y: 6.60,
     text: "Gratulacje, właśnie zamieniłeś wieloskładnikowe hasło na jednoskładnikowe. Teraz wystarczy umieć czytać." },
   { id: 2,  name: "Laptop",             allowed: true,  x: 42.40, y: 57.19,
-    text: "Laptop może zostać na biurku. Warunek jest jeden: ekran powinien wiedzieć o Twojej nieobecności szybciej niż reszta biura. Na szczęście zablokowanie go zajmuje mniej niż sekundę: wystarczy nacisnąć Windows + L." },
+    text: "Laptop może zostać na biurku podczas dnia pracy. Warunek jest jeden: ekran powinien wiedzieć o Twojej nieobecności szybciej niż reszta biura. Na szczęście zablokowanie go zajmuje mniej niż sekundę: wystarczy nacisnąć Windows + L." },
   { id: 3,  name: "Roślina",            allowed: true,  x: 15.63, y: 41.21,
     text: "Ten jedyny współpracownik, który nigdy nie wyśle danych do niewłaściwej osoby. Co najwyżej potrzebuje trochę wody i okazjonalnie bardziej słonecznego miejsca." },
   { id: 4,  name: "Notatka",            allowed: false, x: 62.10, y: 43.34,

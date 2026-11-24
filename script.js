@@ -40,7 +40,7 @@ const ITEMS = [
   let lastFocus = null;    
   let savedScroll = 0;
 
-  const label = (it) => it.allowed ? "Dozwolone" : "Zakazane";
+  const label = (it) => it.allowed ? "Zgodne" : "Niezgodne";
 
   
   ITEMS.forEach((it, i) => {
